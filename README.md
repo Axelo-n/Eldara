@@ -19,6 +19,6 @@ In the mystical land of Eldara, a dark force known as the Shadow King has risen 
     - Priest: Support role with healing and buffs, moderate HP and MP.
 - Combat System: Turn-based battles with attack, defend, and skill options. 
 - Equipment System: Equip weapons, armor, and accessories to enhance stats.
-- Enemies: Variety of monsters with unique strengths and weaknesses.
+- Entities: Variety of monsters with unique strengths and weaknesses.
 - Final Boss Battle: Face the Shadow King in the ultimate showdown.
 - Simple Storyline: Linear progression through different areas with brief story elements.
